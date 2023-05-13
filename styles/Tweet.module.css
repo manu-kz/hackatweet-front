@@ -1,0 +1,13 @@
+
+
+.tweet {
+    background-color: #15202b;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	width: 94%;
+	padding: 3%;
+border-top: solid 1px #d4d6da;
+border-bottom: solid 1px #d4d6da;
+margin-top: 5%;
+}
